@@ -10,4 +10,4 @@ A simple PHP script to send emails to a list of recipients. Just provide a list 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/username/email-sender
